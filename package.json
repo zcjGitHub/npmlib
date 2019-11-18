@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "walle_npm_test",
   "version": "0.0.1",
   "description": "测试package.json作用",
   "main": "index.js",
